@@ -9,4 +9,7 @@ public class Multiples {
         }
         return(count);
     }
+    public static int main() {
+        return main(1000, 3, 5);
+    }
 }
